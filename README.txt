@@ -1,1 +1,4 @@
-https://dashboard.heroku.com/apps/limitless-tor-24987/resources
+
+limitless-tor-24987.herokuapp.com
+
+limitless-tor-24987.herokuapp.com/hello
